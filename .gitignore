@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables (Crucial!)
+.env
+backend/.env
+
+# Production builds
+frontend/dist/
+
+# Editor files
+.vscode/
+.DS_Store
